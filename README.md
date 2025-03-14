@@ -21,14 +21,14 @@ This project is an AI-powered Resume Optimization System built using CrewAI. It 
 ## 🛀 Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - `pip` (Python package manager)
 - OpenAI API Key
 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yanal154/resume-optimizer.git
+   git clone [https://github.com/yanal154/resume-optimizer.git](https://github.com/yanal154/resume-optimizer_agents)
    cd resume-optimizer
    ```
 
