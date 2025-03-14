@@ -18,18 +18,18 @@ This project is an AI-powered Resume Optimization System built using CrewAI. It 
 4. **Resume Validation** – It determines if the resume matches the job.
 5. **Resume Optimization** – If the match is valid, it rewrites the resume to highlight relevant experience.
 
-## 🛀 Installation
+##  Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - `pip` (Python package manager)
 - OpenAI API Key
 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yanal154/resume-optimizer.git
-   cd resume-optimizer
+   git clone https://github.com/yanal154/resume-optimizer_agents
+   cd resume-optimizer_agents
    ```
 
 2. Create a virtual environment and activate it:
