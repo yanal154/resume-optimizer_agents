@@ -28,8 +28,8 @@ This project is an AI-powered Resume Optimization System built using CrewAI. It 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yanal154/resume-optimizer.git](https://github.com/yanal154/resume-optimizer_agents)
-   cd resume-optimizer
+   git clone https://github.com/yanal154/resume-optimizer_agents
+   cd resume-optimizer_agents
    ```
 
 2. Create a virtual environment and activate it:
