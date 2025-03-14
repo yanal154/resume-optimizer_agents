@@ -18,7 +18,7 @@ This project is an AI-powered Resume Optimization System built using CrewAI. It 
 4. **Resume Validation** – It determines if the resume matches the job.
 5. **Resume Optimization** – If the match is valid, it rewrites the resume to highlight relevant experience.
 
-## 🛀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.11+
